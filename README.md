@@ -1,6 +1,6 @@
 
 ## About
-🫠 Inspired by leakers who facilitated my learning journey.  
+🫠 Inspired by who facilitated my learning journey.  
 
 I'm not an expert and I don't always understand everything immediately, but I learn incrementally by engaging with these challenges.
 
